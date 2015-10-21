@@ -3,7 +3,7 @@ Ansible by examples
 
 Ansible-bye es una serie de ejemplos de uso con Ansible.
 
-:::python
+python
 import sys
 
 for arg in sys.args():
