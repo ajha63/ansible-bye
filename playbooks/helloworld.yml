@@ -1,0 +1,4 @@
+---
+- hosts: ubuntubox
+  tasks:
+    - shell: echo 'hello world'
